@@ -1,0 +1,13 @@
+p {
+  margin: 0;
+  padding: 0;
+}
+
+p, .button {
+  float: left;
+  margin: 2px;
+}
+
+#increase {
+  margin-left: 20px;
+}
